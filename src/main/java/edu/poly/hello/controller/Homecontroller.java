@@ -1,4 +1,4 @@
-package edu.poly.hello.concontroller;
+package edu.poly.hello.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
